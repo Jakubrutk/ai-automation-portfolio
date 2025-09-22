@@ -1,57 +1,53 @@
-# AI Automation Portfolio
+# OLX Scraper Bot - AI-Powered Deal Finder
 
-Welcome to my portfolio!  
-I specialize in creating AI-powered automation solutions using *DeepSeek* and other tools.  
-My projects are focused on efficiency, cost savings, and making repetitive processes smarter and faster.  
+Profesjonalny system monitorowania ofert OLX w czasie rzeczywistym, napędzany sztuczną inteligencją. Bot automatycznie wyszukuje najbardziej opłacalne oferty (np. uszkodzonych iPhone'ów), analizuje ich rentowność i natychmiast wysyła alerty.
 
----
+## ✨ Co potrafi ten bot?
 
-## 📂 Projects
+*   *Automatyczne Scrapowanie:* Monitoruje wybrane kategorie OLX (np. elektronika/telefony/q-iphone-uszkodzony/) bez potrzeby używania oficjalnego API.
+*   *Analiza Rentowności w Czasie Rzeczywistym:* Dla każdej znalezionej oferty bot:
+    *   Rozpoznaje model urządzenia (np. iPhone 12, 13, 14).
+    *   Pobiera cenę oferty.
+    *   *Porównuje z Twoją bazą kosztów naprawy* (np. ceny części: wyświetlacz, obudowa).
+    *   Oblicza szacunkowy zysk na podstawie znanej Ci wartości rynkowej sprawnego urządzenia.
+*   *Inteligentne Filtrowanie:* Odrzuca oferty nieopłacalne i prezentuje tylko te, które przyniosą zysk.
+*   *Natychmiastowe Powiadomienia:* Integruje się z komunikatorami (Telegram, Slack) lub systemami typu *n8n*, abyś nigdy nie przegapił najlepszej okazji.
+*   *Anty-Wykrywanie:* Wykorzystuje techniki symulujące ludzkie zachowanie (losowe opóźnienia, ruchy myszy, rotacja User-Agentów), aby być niewidocznym dla systemów zabezpieczających OLX.
 
-### 1. OLX Scraper Bot
-*Description:*  
-An AI agent that monitors OLX for the best iPhone offers and sends instant notifications on Telegram.
+## 🚀 Dlaczego warto ze mną współpracować?
 
----
+*   *Oszczędność Czasu:* Zamiast godzin przeszukiwania OLX, otrzymujesz gotowe, przefiltrowane oferty prosto na telefon.
+*   *Zwiększenie Zysków:* System działa 24/7, reaguje szybciej niż konkurencja i podejmuje decyzje oparte na twardych danych.
+*   *Brak Kosztów Infrastruktury:* Dostajesz gotowe, działające rozwiązanie. Nie musisz martwić się o serwery czy skomplikowane oprogramowanie.
+*   *Wsparcie AI:* Moje rozwiązania wykorzystują AI nie tylko do scrapowania, ale także do analizy sentimentu, klasyfikacji obrazów czy personalizacji (patrz: [AI Personal Trainer](link_do_twojego_repo_z_trenerem)).
 
-### 2. AI Personal Trainer
-*Description:*  
-An intelligent personal trainer that adapts to user goals and available gym machines.  
-It generates personalized workout plans based on how the person feels on a specific training day.
+## 💼 Model Współpracy (Subskrypcja)
 
----
+Oferuję usługę w modelu *subskrypcyjnym*, co gwarantuje Ci stałe wsparcie, aktualizacje i niezawodność działania.
 
-### 3. Copart Scraper
-*Description:*  
-An AI agent designed for businesses.  
-It continuously monitors Copart auctions for specific car models, analyzes damage reports, estimates import costs,  
-and helps companies stay ahead of competitors by providing 24/7 insights.
+1.  *Konfiguracja:* Ustalamy, czego szukasz (kryteria wyszukiwania, modele urządzeń, próg zyskowności).
+2.  *Wdrożenie:* Dostajesz w pełni działającego bota zintegrowanego z wybranym kanałem komunikacji (np. Telegram).
+3.  *Abonament:* Stały, przewidywalny miesięczny koszt za utrzymanie i monitoring systemu.
 
----
+## 🛠️ Tech Stack
 
-## 🧑‍💻 About Me
-I use *DeepSeek* to generate and optimize code, analyze errors, and fine-tune projects until they are production-ready.  
-I know how to craft the right prompts to get the most out of AI systems and stay focused on the final goal.  
-
-- 🔧 Working on AI automation projects for *4+ months*.  
-- 🚀 Constantly improving and expanding my solutions.  
-- ⚙️ My focus: *automation that reduces repetitive tasks and boosts efficiency*.
-
----
-
-## 🔨 What I Can Do for Businesses
-- *Process Automation:* eliminate repetitive daily tasks and make workflows more efficient.  
-- *Custom Web Scrapers:* track offers, products, or data on demand for businesses.  
-- *AI Assistants for Offices:*  
-  - Automatically process invoices from emails.  
-  - Extract structured data from PDFs and attachments (NIP, invoice numbers, amounts, VAT, descriptions).  
-  - Validate company information (e.g., NIP checks).  
-  - Automate expense/revenue categorization and even integrate with banking systems.  
+*   *Language:* Python
+*   *Web Scraping:* Playwright, BeautifulSoup4
+*   *Automation & Workflows:* n8n
+*   *Notifications:* Telegram Bot API, Slack Webhooks
+*   *Data Analysis:* Pandas
 
 ---
 
-## 📌 Notes
-- Screenshots and demo images will be added soon.  
-- Logos (e.g., OLX, Copart) are not included due to copyright, but custom icons may be added later.  
+### 📞 Chcesz rozpocząć? Masz pytania?
+
+*Zapraszam do kontaktu!*
+Chętnie omówię, jak możemy zautomatyzować poszukiwanie najlepszych okazji właśnie dla Twojego biznesu.
+
+*   *Email:* [twój_email]
+*   *Telegram:* [twój_telegram]
+*   *GitHub:* [link_do_twojego_github_profile]
 
 ---
+
+Sprawdź też moje inne projekty: [AI Personal Trainer](link_do_repo_trenera) | [Food Macro Analyzer](link_do_repo_jedzenia) | [Copart Scraper](link_do_repo_copart)
