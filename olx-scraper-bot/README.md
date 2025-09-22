@@ -44,10 +44,10 @@ Oferuję usługę w modelu *subskrypcyjnym*, co gwarantuje Ci stałe wsparcie, a
 *Zapraszam do kontaktu!*
 Chętnie omówię, jak możemy zautomatyzować poszukiwanie najlepszych okazji właśnie dla Twojego biznesu.
 
-*   *Email:* [twój_email]
-*   *Telegram:* [twój_telegram]
-*   *GitHub:* [link_do_twojego_github_profile]
+*   *Email:* jakub.rutkowski07@interia.pl
+*   *GitHub:* github.com/Jakubrutk/ai-automation-portfolio/tree/main/olx-scraper-bot
 
 ---
+
 
 Sprawdź też moje inne projekty: [AI Personal Trainer](link_do_repo_trenera) | [Food Macro Analyzer](link_do_repo_jedzenia) | [Copart Scraper](link_do_repo_copart)
