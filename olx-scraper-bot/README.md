@@ -49,4 +49,4 @@ Chętnie omówię, jak możemy zautomatyzować poszukiwanie najlepszych okazji w
 
 ---
 
-Sprawdź też moje inne projekty: [AI Personal Trainer](https://github.com/Jakubrutk/ai-automation-portfolio/tree/main/Trener-Personalny-AI) | [Food Macro Analyzer](link_do_repo_jedzenia) | [Copart Scraper](link_do_repo_copart)
+Sprawdź też moje inne projekty: [AI Personal Trainer](https://github.com/Jakubrutk/ai-automation-portfolio/tree/main/Trener-Personalny-AI) | [Food Macro Analyzer](link_do_repo_jedzenia) | 
