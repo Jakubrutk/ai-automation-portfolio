@@ -30,7 +30,7 @@ pomaga firmom wyprzedzać konkurencję, zapewniając całodobowy dostęp do info
 ---
 
 ## 🧑‍💻 O mnie
-Używam *DeepSeek* do generowania i optymalizacji kodu, analizowania błędów i dopracowywania projektów, aż będą gotowe do produkcji.
+Używam *DeepSeek* do generowania i optymalizacji kodu, analizowania błędów i dopracowywania projektów, aż będą gotowe do wydania.
 
 Wiem, jak tworzyć odpowiednie komunikaty, aby maksymalnie wykorzystać potencjał systemów AI i skupić się na ostatecznym celu.
 
